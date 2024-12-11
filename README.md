@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN stack, Java with DSA**
 
-- 💬 Ask me about **Core Java, Advance Java, HTML,CSS, SQL**
+- 💬 Ask me about **Core Java, Advance Java, HTML,CSS, JavaScript, SQL**
 
 - 📫 How to reach me **radhikapatidar738@gmail.com**
 
