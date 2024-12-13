@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhikapatidar738&label=Profile%20views&color=0e75b6&style=flat" alt="radhikapatidar738" /> </p>
 
-- 🌱 I’m currently learning **MERN stack, Java with DSA**
+- 🌱 I’m currently learning **MERN stack,  DSA with Java**
 
 - 💬 Ask me about **Core Java, Advance Java, HTML,CSS, JavaScript, SQL**
 
